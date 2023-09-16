@@ -1,0 +1,22 @@
+{
+  "name": "namste-react-1",
+  "version": "1.0.0",
+  "description": "This is namste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pravin-Parkhi/namaste-react.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Pravin Parkhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pravin-Parkhi/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Pravin-Parkhi/namaste-react#readme"
+}
